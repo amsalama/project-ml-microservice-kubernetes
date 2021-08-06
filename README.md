@@ -59,3 +59,5 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 `run_docker.sh`
 * Run via kubectl \
 `run_kubernetes.sh`
+
+[![CircleCI](https://circleci.com/gh/amsalama/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://circleci.com/gh/amsalama/project-ml-microservice-kubernetes/tree/main)
