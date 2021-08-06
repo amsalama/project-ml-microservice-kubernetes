@@ -54,8 +54,8 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ` curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl`\
 `chmod +x kubectl`\
 ` sudo mv kubectl /usr/local/bin/`\
-`kubectl version -o yaml`\
+`kubectl version -o yaml`
 * Create Flask app in Container \
-`run_docker.sh`\
+`run_docker.sh`
 * Run via kubectl \
 `run_kubernetes.sh`
